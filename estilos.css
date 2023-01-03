@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(15, 15, 17));
+    color: aliceblue;
+}
+.titular{
+    margin: 15px;
+    text-align: center;
+}
+.tarjetas{
+    display: flex;
+    margin: 40px;
+    
+}
+
+#btn-verde {
+    background-color: rgb(39, 128, 39);
+}
